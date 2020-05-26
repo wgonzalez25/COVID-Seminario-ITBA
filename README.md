@@ -28,3 +28,8 @@ Abajo se encuentra hasta el día 25-05-2020:
 <a href="https://ibb.co/Y3gTqRx"><img src="https://i.ibb.co/HVZpkFj/covid-2020-05-26-T23-04-09-630-Z.jpg" alt="covid-2020-05-26-T23-04-09-630-Z" border="0"></a>
 
 <a href="https://ibb.co/tbXCNm6"><img src="https://i.ibb.co/VvmBhjG/covid-2020-05-26-T23-14-39-852-Z.jpg" alt="covid-2020-05-26-T23-14-39-852-Z" border="0"></a>
+
+
+Autores:
+Walter González Eslava
+Nicolas Ezquiel Montero
