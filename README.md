@@ -31,5 +31,7 @@ Abajo se encuentra hasta el día 25-05-2020:
 
 
 Autores:
+
 Walter González Eslava
+
 Nicolas Ezquiel Montero
