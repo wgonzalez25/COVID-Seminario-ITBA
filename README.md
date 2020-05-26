@@ -17,4 +17,14 @@ El flujo de trabajo utilizado fue el siguiente:
 5. Para la visualización de la información se utilizó el Apache Superset a través de un Dashboard conteniendo diferentes "pages" para los Casos Confirmados, Muertes, Recuperados, Activos y Mapa de COVID 19 en Suramérica.
 
 
+Abajo se encuentra hasta el día 25-05-2020:
+
 <a href="https://ibb.co/YdWbvVr"><img src="https://i.ibb.co/6tZN6qd/covid-2020-05-26-T22-18-37-354-Z.jpg" alt="covid-2020-05-26-T22-18-37-354-Z" border="0"></a>
+
+<a href="https://ibb.co/6Yq21dB"><img src="https://i.ibb.co/R2J1B5y/covid-2020-05-26-T23-00-51-963-Z.jpg" alt="covid-2020-05-26-T23-00-51-963-Z" border="0"></a>
+
+<a href="https://ibb.co/M8bqrnp"><img src="https://i.ibb.co/4scBzWM/covid-2020-05-26-T23-02-31-366-Z.jpg" alt="covid-2020-05-26-T23-02-31-366-Z" border="0"></a>
+
+<a href="https://ibb.co/Y3gTqRx"><img src="https://i.ibb.co/HVZpkFj/covid-2020-05-26-T23-04-09-630-Z.jpg" alt="covid-2020-05-26-T23-04-09-630-Z" border="0"></a>
+
+<a href="https://ibb.co/tbXCNm6"><img src="https://i.ibb.co/VvmBhjG/covid-2020-05-26-T23-14-39-852-Z.jpg" alt="covid-2020-05-26-T23-14-39-852-Z" border="0"></a>
